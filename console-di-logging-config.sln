@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console-di-logging-config", "console-di-logging-config\console-di-logging-config.csproj", "{853915B3-C131-4123-91C9-92866FD22D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{853915B3-C131-4123-91C9-92866FD22D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853915B3-C131-4123-91C9-92866FD22D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853915B3-C131-4123-91C9-92866FD22D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853915B3-C131-4123-91C9-92866FD22D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46D8D23E-3E82-46FA-A51D-65104E43CD04}
+	EndGlobalSection
+EndGlobal
